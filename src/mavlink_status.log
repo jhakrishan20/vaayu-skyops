@@ -1,0 +1,225 @@
+
+--- MAVLink Status Log Started at 2025-05-23 14:53:14.368783 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:20:20.443612 ---
+[2025-06-06 12:20:33] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:20:38.233061 ---
+[2025-06-06 12:20:44] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:20:44] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:20:48] [INFO] EKF3 IMU1 MAG0 in-flight yaw alignment complete
+[2025-06-06 12:20:48] [INFO] EKF3 IMU1 MAG0 in-flight yaw alignment complete
+
+--- MAVLink Status Log Started at 2025-06-06 12:21:38.776636 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:21:57.960523 ---
+[2025-06-06 12:22:03] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:22:03] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:22:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:22:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:22:13] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:22:13] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:23:15.082666 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:23:24.594066 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:23:59.598075 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:24:04.608785 ---
+[2025-06-06 12:24:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:08] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:08] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:24:25.329539 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:24:30.518034 ---
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:24:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:27:12] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:29:00.505824 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:29:13.124961 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:30:08.113345 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:30:40.370965 ---
+[2025-06-06 12:30:48] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:30:54] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:31:14] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:31:19] [WARNING] Mode change to GUIDED failed: requires position
+
+--- MAVLink Status Log Started at 2025-06-06 12:37:59.916189 ---
+[2025-06-06 12:38:03] [INFO] GPS 1: u-blox saving config
+[2025-06-06 12:38:05] [INFO] u-blox 1 HW: 00080000 SW: ROM CORE 3.01 (107888)
+
+--- MAVLink Status Log Started at 2025-06-06 12:39:14.370815 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:40:03.938133 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:43:08.345994 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:43:31.505280 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:43:44.788691 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:44:14.640928 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:44:36.738904 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:45:15.140486 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:45:45.218270 ---
+[2025-06-06 12:46:06] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:46:42.130099 ---
+[2025-06-06 12:46:46] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:46:46] [WARNING] Battery 1 is low 0.03V used 56 mAh
+[2025-06-06 12:46:46] [WARNING] Battery Failsafe - Disarming
+[2025-06-06 12:46:46] [WARNING] Battery 2 is low 0.03V used 56 mAh
+[2025-06-06 12:46:46] [WARNING] Battery Failsafe - Disarming
+[2025-06-06 12:46:49] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:47:48.686796 ---
+[2025-06-06 12:47:49] [INFO] GPS 1: u-blox saving config
+[2025-06-06 12:47:51] [INFO] u-blox 1 HW: 00080000 SW: ROM CORE 3.01 (107888)
+
+--- MAVLink Status Log Started at 2025-06-06 12:48:36.303398 ---
+[2025-06-06 12:48:39] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:48:45] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:48:48] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:48:52] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 12:49:58] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 12:56:26.677559 ---
+
+--- MAVLink Status Log Started at 2025-06-06 12:56:56.830584 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:00:45.856538 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:02:57.208987 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:03:42.020269 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:04:01.445759 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:09:19.773400 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:09:44.927759 ---
+[2025-06-06 13:09:57] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 13:10:07] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 13:10:39] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 13:24:06.460482 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:26:01.016675 ---
+
+--- MAVLink Status Log Started at 2025-06-06 13:26:31.540145 ---
+[2025-06-06 13:26:35] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 13:27:06.388635 ---
+
+--- MAVLink Status Log Started at 2025-06-06 14:36:59.975751 ---
+[2025-06-06 14:37:09] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:39:53.832836 ---
+
+--- MAVLink Status Log Started at 2025-06-06 14:40:28.165462 ---
+[2025-06-06 14:40:43] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:40:43] [WARNING] Battery 1 is low 0.02V used 37 mAh
+[2025-06-06 14:40:43] [WARNING] Battery Failsafe - Disarming
+[2025-06-06 14:40:43] [WARNING] Battery 2 is low 0.02V used 37 mAh
+[2025-06-06 14:40:43] [WARNING] Battery Failsafe - Disarming
+
+--- MAVLink Status Log Started at 2025-06-06 14:41:47.444427 ---
+[2025-06-06 14:41:53] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:41:53] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:43:17.243278 ---
+
+--- MAVLink Status Log Started at 2025-06-06 14:45:14.662755 ---
+[2025-06-06 14:45:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:45:56] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:45:56] [WARNING] Battery 1 is low 0.02V used 25 mAh
+[2025-06-06 14:45:56] [WARNING] Battery Failsafe - Disarming
+[2025-06-06 14:45:56] [WARNING] Battery 2 is low 0.02V used 25 mAh
+[2025-06-06 14:45:56] [WARNING] Battery Failsafe - Disarming
+[2025-06-06 14:46:32] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:46:43] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:47:01] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:53:06.024761 ---
+
+--- MAVLink Status Log Started at 2025-06-06 14:53:15.119418 ---
+[2025-06-06 14:53:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:53:40] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:53:50] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:53:50] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:53:54] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:53:54] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:54:14.798326 ---
+
+--- MAVLink Status Log Started at 2025-06-06 14:54:34.618180 ---
+[2025-06-06 14:54:43] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:55:27.682955 ---
+[2025-06-06 14:55:31] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:55:37] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:55:40] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:56:01.777947 ---
+
+--- MAVLink Status Log Started at 2025-06-06 14:56:33.771442 ---
+[2025-06-06 14:57:00] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:57:22] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 14:58:27.161857 ---
+[2025-06-06 14:58:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:58:34] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:59:27] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:59:27] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:59:41] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 14:59:41] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 15:01:15.025237 ---
+[2025-06-06 15:01:32] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 15:05:29.697515 ---
+[2025-06-06 15:05:35] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 15:05:52] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 15:05:55] [WARNING] Mode change to GUIDED failed: requires position
+
+--- MAVLink Status Log Started at 2025-06-06 15:10:22.196235 ---
+[2025-06-06 15:10:43] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 15:13:53] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 15:19:19] [WARNING] Warning: Arming Checks Disabled
+[2025-06-06 15:19:46] [WARNING] Warning: Arming Checks Disabled
+
+--- MAVLink Status Log Started at 2025-06-06 15:29:06.609554 ---
+[2025-06-06 15:29:25] [WARNING] Warning: Arming Checks Disabled
